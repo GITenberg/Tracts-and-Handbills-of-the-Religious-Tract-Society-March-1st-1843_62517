@@ -1,5 +1,8 @@
 _repo: Tracts-and-Handbills-of-the-Religious-Tract-Society-March-1st-1843_62517
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62517-h/images/cover.jpg
 creator:
   author:
     agent_name: Religious Tract Society (Great Britain)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43999
     wikipedia: https://en.wikipedia.org/wiki/Religious_Tract_Society
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62517#Tracts-and-Handbills-of-the-Religious-Tract-Society-March-1st-1843
 gutenberg_issued: '2020-06-28'
 gutenberg_type: Text
 identifiers:
