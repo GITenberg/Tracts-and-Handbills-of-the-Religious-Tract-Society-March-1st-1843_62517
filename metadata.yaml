@@ -1,0 +1,27 @@
+_repo: Tracts-and-Handbills-of-the-Religious-Tract-Society-March-1st-1843_62517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Religious Tract Society (Great Britain)
+    aliases:
+    - R.T.S.
+    - RTS
+    gutenberg_agent_id: '43999'
+    url: http://www.gutenberg.org/2009/agents/43999
+    wikipedia: https://en.wikipedia.org/wiki/Religious_Tract_Society
+description: ''
+gutenberg_issued: '2020-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious Tract Society (Great Britain) -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- GITenberg
+title: Tracts and Handbills of the Religious Tract Society, March 1st, 1843
+url: http://www.gutenberg.org/ebooks/62517
